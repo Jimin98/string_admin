@@ -10,6 +10,11 @@ li {
   float: left;
 }
 
+li.main {
+  line-height: 1.0;
+  margin: auto;
+}
+
 li a, .dropbtn {
   display: inline-block;
   color: #2E2E2E;
@@ -21,6 +26,7 @@ li a, .dropbtn {
 li a:hover, .dropdown:hover .dropbtn {
   background-color: #2E2E2E;
   color: #E9BE2C;
+
 }
 
 li.dropdown {
@@ -63,4 +69,14 @@ th, td {
 
 th {
   background-color: lightgray;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    background-color: #E9BE2C;
 }
