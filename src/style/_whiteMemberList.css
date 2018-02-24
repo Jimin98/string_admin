@@ -1,7 +1,7 @@
 body {
   margin: 0px;
-  left:0px;
-  right:0px;
+  left: 0px;
+  right: 0px;
 }
 
 ul {
@@ -24,7 +24,6 @@ h1 {
   padding-left: 14px;
 }
 
-
 li a, .dropbtn {
   display: inline-block;
   color: #2E2E2E;
@@ -36,7 +35,6 @@ li a, .dropbtn {
 li a:hover, .dropdown:hover .dropbtn {
   background-color: #2E2E2E;
   color: #E9BE2C;
-
 }
 
 li.dropdown {
